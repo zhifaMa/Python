@@ -1,2 +1,2 @@
 # Python
-This is my Python code workspace!
+This is my Python code folder!
